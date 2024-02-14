@@ -13,9 +13,9 @@ body {
     background-color: hsl(0, 0%, 12%);
     width: 330px;
     text-align: center;
-    margin-top: 50px;
     padding: 10px;
     border-radius: 10px;
+    margin: 50px auto;
 }
 
 h2, p, button {
